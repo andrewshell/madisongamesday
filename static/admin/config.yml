@@ -14,8 +14,9 @@ collections:
     media_folder: ''
     public_folder: ''
     path: '{{title}}/index'
+    preview_path: '{{title}}/preview'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
