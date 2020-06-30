@@ -3,7 +3,7 @@ module.exports = {
     title: `Madison Games Day`,
     author: `Matt McElroy`,
     description: `Play New Games. Meet New People.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://clever-heyrovsky-4518fe.netlify.app/`,
     social: {
       twitter: `madgames`,
     },
