@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: andrewshell/madisongamesday
+  name: git-gateway
+  branch: master
 
 media_folder: content/assets
 public_folder: ../assets
